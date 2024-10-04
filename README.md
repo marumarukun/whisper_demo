@@ -32,6 +32,8 @@ whisperのdemoリポジトリ
   - src/demo_openai.ipynb
 - transformersを使用した音声ファイルの文字起こし
   - src/demo_transformers.ipynb
+- 参考サイト
+  - https://bwgift.hatenadiary.jp/entry/2024/10/02/215541
 
   
 ## How to use
