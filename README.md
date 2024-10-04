@@ -1,4 +1,4 @@
-# marumarukun's template
+# whisper demo
 
 <center>
 
@@ -26,24 +26,12 @@
 
 ## Description
 
-機械学習プロジェクトを進める際に使用するテンプレートリポジトリ
-以下の機能を含んでいます：
+whisperのdemoリポジトリ
 
-- Dockerを使用した環境の分離と管理
-- uvを使用したPythonパッケージの管理
-- Ruffを使用したコードスタイルのチェック
-- Mypyを使用した型チェック
-- pytestを使用したテストフレームワーク
+- openai-whisperを使用した音声ファイルの文字起こし
+- transformersを使用した音声ファイルの文字起こし
 
-## Used libraries
-
-- python3.12
-- VSCode(Cursor)
-- Docker
-- uv
-- ruff
-- mypy
-- pytest
+  
 ## How to use
 
 ### dockerコンテナ ビルド & 起動
