@@ -29,7 +29,9 @@
 whisperのdemoリポジトリ
 
 - openai-whisperを使用した音声ファイルの文字起こし
+  - src/demo_openai.ipynb
 - transformersを使用した音声ファイルの文字起こし
+  - src/demo_transformers.ipynb
 
   
 ## How to use
